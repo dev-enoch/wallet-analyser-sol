@@ -23,7 +23,7 @@
     "@solana/web3.js": "^1.98.0",
     "@solflare-wallet/utl-sdk": "^1.4.0",
     "@vercel/analytics": "^1.4.1",
-    "axios": "^1.7.9",
+    "axios": "^1.18.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "fs": "^0.0.1-security",
